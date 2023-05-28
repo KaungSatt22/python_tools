@@ -5,7 +5,7 @@
 # Install 
 ***
 ```
-git clone 
+git clone https://github.com/KaungSatt22/python_tools.git
 ```
 # Ussage
 ***
